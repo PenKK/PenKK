@@ -1,6 +1,6 @@
 # Hi there, I'm Arman Bains 👋
 
-I'm a UBC Computer Science student. My interests are in **full-stack web development**, **desktop application engineering**, and most recently, **computer graphics** and low level programming.
+I'm a UBC Computer Science student. My interests are in **full-stack web development**, **desktop application engineering**, and most recently, **computer graphics** and **low level programming**.
 
 ## 🚀 Featured Projects
 
