@@ -20,4 +20,6 @@ A full-stack, client-side rendered task management application with a React fron
 ## 📫 Contacts
 
 [![Email](https://img.shields.io/badge/Email-abains32@student.ubc.ca-blue?style=flat&logo=gmail)](mailto:abains32@student.ubc.ca) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman_Bains-informational?style=flat&logo=linkedin)](https://linkedin.com/in/arman-bains-41062132b/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/arman-bains-41062132b/)
+
+
