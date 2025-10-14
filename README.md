@@ -15,7 +15,6 @@ A full-stack, client-side rendered task management application with a React fron
 - Advanced C/C++
 - Data Structures and Algorithmns
 - Computer Graphics with OpenGL
-- Computer Systems
 
 ## 📫 Contacts
 
