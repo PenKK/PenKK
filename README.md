@@ -13,7 +13,7 @@ A full-stack, client-side rendered task management application with a React fron
 ## 📚 Currently Learning
 
 - Advanced C/C++
-- Data Structures and Algorithmns
+- AI/ML
 - Computer Graphics with OpenGL
 
 ## 📫 Contacts
